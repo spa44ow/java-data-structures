@@ -3,12 +3,10 @@ package dataStructures;
 import java.util.BitSet;
 
 import org.openjdk.jol.info.ClassLayout;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+
 
 public class BitSetExample {
 
-	private static final Logger logger = LoggerFactory.getLogger(BitSetExample.class);
 
 	public static void main(String[] args) {
 
